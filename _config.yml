@@ -1,5 +1,12 @@
 title: The LLVM Compiler Infrastructure
 logo: /src/png-transparent-clang-llvm-gnu-compiler-collection-c-llvm-c-google-chrome-source-code.png
 description: 
+sidebar:
+  - getting-started
+  - label: Dev Docs
+    children:
+      - doc-1
+      - doc-2
+  - deployment
 show_downloads: false
 theme: jekyll-theme-minimal
